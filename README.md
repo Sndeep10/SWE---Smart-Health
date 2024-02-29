@@ -1,5 +1,5 @@
 # Smart Health
-Sandeep Nirmal,
+Sandeep Nirmalraj,
 Gabriel Amaizu,
 Kwaku Addow,
 Jack Brown,
