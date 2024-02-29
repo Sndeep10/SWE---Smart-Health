@@ -2,5 +2,5 @@
 Sandeep Nirmalraj,
 Gabriel Amaizu,
 Kwaku Addow,
-Jack Brown Reid,
+Jack Brown,
 Chiadikaobi Oguh
